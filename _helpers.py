@@ -1,0 +1,1 @@
+api_url = "mongodb+srv://user:user123@cluster0.igpv7nm.mongodb.net/Mu_study?retryWrites=true&w=majority"
